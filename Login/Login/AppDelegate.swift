@@ -1,8 +1,8 @@
 //
 //  AppDelegate.swift
-//  Choi1
+//  Login
 //
-//  Created by 최지연 on 2021/02/19.
+//  Created by 최지연 on 2021/02/26.
 //
 
 import UIKit
@@ -14,7 +14,6 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
 
     func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey: Any]?) -> Bool {
         // Override point for customization after application launch.
-        sleep(1) // 앱 실행시 화면 출력 (LaunchScreen.storyboard)
         return true
     }
 
